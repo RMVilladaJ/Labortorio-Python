@@ -158,3 +158,6 @@ if Nodo!=None:
     print("Compras del Usuario: "+str(Nodo.data.compras.size()))
 else:
     print("El usuario no se encuentra registrado")
+
+#suma
+print (supermercado.SumarNumeros(67866, 67899787))

@@ -305,6 +305,12 @@ class Supermercado():
         el método debe imprimir el mensaje de error. 
         """
 
+    def SumarNumeros(self,numero1 , numero2):
+
+        suma = numero1 + numero2
+
+        return suma
+
     
 
             
